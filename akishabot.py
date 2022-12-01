@@ -4,8 +4,9 @@ from xml.etree.ElementInclude import include
 import telebot
 import requests
 import datetime
-import lxml
 from bs4 import BeautifulSoup
+
+
 
 bot = telebot.TeleBot("5259718399:AAHiGRdQ2O_OpQoCz4QFAqOqUH3wVGbY2RQ")
 
